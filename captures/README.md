@@ -1,0 +1,1 @@
+The repository includes a sample packet capture (tcp-handshake.pcapng) demonstrating a TCP three-way handshake over HTTPS. ICMP and DNS analyses are documented using screenshots captured during the laboratory.
